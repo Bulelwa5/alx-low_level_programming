@@ -5,6 +5,7 @@
 /**
  * main - assigns a random number to variable n which stores integers
  * it executes, and prints it
+ * Return: Always 0 (Success)
  */
 
 int main(void)
